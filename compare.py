@@ -15,7 +15,7 @@ if __name__ == '__main__':
     _, time_s = single_threaded(text)
     print(f"Single-threaded time: {time_s:.4f}s")
     
-    # Note: Ensure worker.py instances are running before calling run_distributed
+    
     from master import run_distributed
     _, time_d = run_distributed(text)
     print(f"Distributed time: {time_d:.4f}s")
