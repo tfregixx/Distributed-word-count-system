@@ -107,8 +107,9 @@ Submit a pull request
 
 
 📜 License
-This project is for educational purposes only.
-Feel free to use and modify with proper attribution.
+
+This project is licensed under the MIT License.
+``
 
 🙏 Acknowledgments
 
